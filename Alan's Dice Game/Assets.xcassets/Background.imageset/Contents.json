@@ -1,0 +1,27 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "463ea2d4ef0317086a7a36f72dd4d392--galaxy-wallpaper-iphone--wallpaper.jpg",
+      "compression-type" : "automatic",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "compression-type" : "automatic",
+    "template-rendering-intent" : "original",
+    "auto-scaling" : "auto"
+  }
+}
