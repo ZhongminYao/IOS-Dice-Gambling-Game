@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E74454CB2256C93E005904F0 /* RulesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74454CA2256C93E005904F0 /* RulesViewController.swift */; };
+		E74454CD2256D7F1005904F0 /* AuthorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74454CC2256D7F1005904F0 /* AuthorViewController.swift */; };
 		E7FA333D2254F98D006478F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FA333C2254F98D006478F8 /* AppDelegate.swift */; };
 		E7FA333F2254F98D006478F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FA333E2254F98D006478F8 /* ViewController.swift */; };
 		E7FA33422254F98D006478F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7FA33402254F98D006478F8 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E74454CA2256C93E005904F0 /* RulesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesViewController.swift; sourceTree = "<group>"; };
+		E74454CC2256D7F1005904F0 /* AuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorViewController.swift; sourceTree = "<group>"; };
 		E7FA33392254F98D006478F8 /* Alan's Dice Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alan's Dice Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7FA333C2254F98D006478F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7FA333E2254F98D006478F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 		E7FA333B2254F98D006478F8 /* Alan's Dice Game */ = {
 			isa = PBXGroup;
 			children = (
+				E74454CA2256C93E005904F0 /* RulesViewController.swift */,
+				E74454CC2256D7F1005904F0 /* AuthorViewController.swift */,
 				E7FA333C2254F98D006478F8 /* AppDelegate.swift */,
 				E7FA333E2254F98D006478F8 /* ViewController.swift */,
 				E7FA33402254F98D006478F8 /* Main.storyboard */,
@@ -136,7 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7FA333F2254F98D006478F8 /* ViewController.swift in Sources */,
+				E74454CB2256C93E005904F0 /* RulesViewController.swift in Sources */,
 				E7FA333D2254F98D006478F8 /* AppDelegate.swift in Sources */,
+				E74454CD2256D7F1005904F0 /* AuthorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

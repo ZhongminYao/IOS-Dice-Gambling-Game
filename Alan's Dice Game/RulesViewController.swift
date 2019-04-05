@@ -17,6 +17,9 @@ class RulesViewController: UIViewController {
     }
     
 
+    @IBAction func Back(_ sender: UIButton) {
+        dismiss(animated: true, completion: nil)
+    }
     /*
     // MARK: - Navigation
 
